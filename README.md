@@ -1,3 +1,5 @@
+# Info about app
+This app will be sammary of all knowlage from course Getting started.
 # AppGettingStarted
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.7.

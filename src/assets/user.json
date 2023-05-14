@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "name": "Marko",
+    "lastname": "Canovic",
+    "age": 31,
+    "job": "Developer"
+  },
+  {
+    "id": 2,
+    "name": "Miomir",
+    "lastname": "Dancevic",
+    "age": 29,
+    "job": "Front End Developer - Mentor"
+  },
+  {
+    "id": 3,
+    "name": "Mirko",
+    "lastname": "Damnjanovic",
+    "age": 26,
+    "job": "Back End Developer - Mentor"
+  },
+  {
+    "id": 4,
+    "name": "Stefan",
+    "lastname": "Jovanov",
+    "age": 31,
+    "job": "Full stack Developer"
+  },
+  {
+    "id": 5,
+    "name": "Bosko",
+    "lastname": "Djeric",
+    "age": 18,
+    "job": "QA tester"
+  }
+]
