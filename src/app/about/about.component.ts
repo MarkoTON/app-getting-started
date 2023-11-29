@@ -39,7 +39,7 @@ export class AboutComponent implements OnInit {
 
   constructor( private fb: FormBuilder, private service: UsersService, private route: ActivatedRoute) { };
 
-  // Form gurpa da se napravi gde moze vise email adresa da se unese za ovog korisnika, da se doda validacija da korisnik mora da ima barem jednu email adresu.
+  // Form gruop da se napravi gde moze vise email adresa da se unese za ovog korisnika, da se doda validacija da korisnik mora da ima barem jednu email adresu.
   // Validacija da je to email da se ne ubaci bilo sta
 
 

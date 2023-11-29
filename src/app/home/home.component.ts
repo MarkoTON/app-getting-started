@@ -108,8 +108,8 @@ export class HomeComponent implements OnInit {
     this.service.deliteUser(String(id)).subscribe(()=> this.filteredUsers = this.filteredUsers.filter(item => item.id !== id));
   }
 
-  openAbout(id: number): void {
-    this.router.navigate(['/about',id ]);
+  openEdit(id: number): void {
+    this.router.navigate(['/edit',id ]);
   }
 
 }
